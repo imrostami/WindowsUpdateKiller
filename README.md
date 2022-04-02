@@ -7,7 +7,7 @@ First using one of the methods namely
 Repository clone and compile source code
 Or 
 <h2>Download Windows Update Killer Setup File</h2>
-<a href="https://raw.githubusercontent.com/sapurtcomputer30/WindowsUpdateKiller/master/WUK-Setup.exe">download the installation file from here</a> (this is recommended because for the convenience of users while installing the software in the operating system startup is also installed, so each time the operating system boot does not need to run manually)
+<a href="https://raw.githubusercontent.com/sapurtcomputer30/WindowsUpdateKiller/master/WUK-Setup.exe">DOWNLOAD THE INSTALLATION SETUP FILE FROM HERE</a> (this is recommended because for the convenience of users while installing the software in the operating system startup is also installed, so each time the operating system boot does not need to run manually)
 
 Transfer content to your system
 
