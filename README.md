@@ -29,3 +29,9 @@ Download .NET 6 here
 
 If the antivirus detects malware, add it to the list of exceptions
 <b>We assure you that there is nothing suspicious and the software source code is fully provided to you, you can check it</b>
+
+<hr>
+Sincerely (Mohammad Dadashi Rostami)
+If there are any problems or questions or cooperation
+E-mail
+sapurtcomputer30@gmail.com
