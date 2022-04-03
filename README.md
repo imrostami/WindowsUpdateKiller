@@ -32,7 +32,7 @@ If the antivirus detects malware, add it to the list of exceptions
 
 <h4>On or Off Tool Service</h4>
 <p>To turn the tool service on or off from the Windows system tray, you can right-click on the tool icon to enable or disable it.</p>
-![image](https://user-images.githubusercontent.com/26039089/161421769-6b5aed37-3efd-4dc1-87bb-76dff72d757a.png)
+<img src="https://user-images.githubusercontent.com/26039089/161421769-6b5aed37-3efd-4dc1-87bb-76dff72d757a.png"/>
 
 <hr>
 Sincerely (Mohammad Dadashi Rostami)
